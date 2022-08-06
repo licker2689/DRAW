@@ -1,0 +1,7 @@
+name: Draw
+version: '1.0'
+main: cheesesand.draw.Draw
+api-version: 1.19
+authors: [ 'licker2689' ]
+depend:
+  - DPP-Core
